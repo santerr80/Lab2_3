@@ -2,7 +2,7 @@ from clearml.automation.controller import PipelineDecorator
 from clearml import TaskTypes
 from clearml import Task
 
-Task.add_requirements("scikit-learn", package_version="1.5.2")
+# Task.add_requirements("scikit-learn", package_version="1.5.2")
 
 @PipelineDecorator.component(cache=True,
                              return_values=['X_train', 'X_test',
