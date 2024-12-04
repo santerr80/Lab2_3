@@ -1,0 +1,8 @@
+Random Forest - Iteration 1: n_estimators=50,                max_depth=10, MSE=3064.487931945651, R2=0.4215930238684351
+Extra Trees - Iteration 1: n_estimators=50,                max_depth=10, MSE=2666.990458677456, R2=0.4966187105863529
+Random Forest - Iteration 2: n_estimators=100,                max_depth=20, MSE=2945.564478651685, R2=0.44403923887676555
+Extra Trees - Iteration 2: n_estimators=100,                max_depth=20, MSE=2824.7340032147313, R2=0.46684539490481525
+Random Forest - Iteration 3: n_estimators=150,                max_depth=30, MSE=2994.666187765293, R2=0.43477153356285947
+Extra Trees - Iteration 3: n_estimators=150,                max_depth=30, MSE=2833.331255930087, R2=0.46522270587599257
+Random Forest - Iteration 4: n_estimators=200,                max_depth=None, MSE=2966.0241980337078, R2=0.4401775677972706
+Extra Trees - Iteration 4: n_estimators=200,                max_depth=None, MSE=2802.345544101124, R2=0.47107110609171654
